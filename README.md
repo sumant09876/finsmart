@@ -60,8 +60,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Contributors
 
 - [Gevendra Sahu](https://github.com/gevendra2004) - Developer
+- [Sumant Sahu](https://github.com/sumant09876) - Developer
 - Sourabh Singh - Developer
-- Sumant Sahu - Developer
 
 ## 📞 Contact
 
