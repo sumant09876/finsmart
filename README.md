@@ -61,7 +61,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Gevendra Sahu](https://github.com/gevendra2004) - Developer
 - [Sumant Sahu](https://github.com/sumant09876) - Developer
-- Sourabh Singh - Developer
+- [Sourabh Singh](https://github.com/SourabhSingh683) - Developer
 
 ## 📞 Contact
 
