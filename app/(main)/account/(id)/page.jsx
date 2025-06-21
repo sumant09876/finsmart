@@ -1,1 +1,1 @@
-{"₹" + parseFloat(account.balance).toFixed(2)} 
+{`₹${parseFloat(account.balance).toFixed(2)}`}
