@@ -86,7 +86,7 @@ const LandingPage = () => {
               size="lg"
               className="bg-white text-blue-600 hover:bg-blue-50 animate-bounce"
             >
-              Let's Get Started
+              {"Let&apos;s Get Started"}
             </Button>
           </Link>
         </div>
