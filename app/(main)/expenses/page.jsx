@@ -1,3 +1,8 @@
+// 'use server';
+// This page does not use 'headers' directly, but if you need static generation, ensure all data fetching is compatible.
+// If you want to force dynamic rendering, uncomment the following line:
+export const dynamic = "force-dynamic";
+
 import React from "react";
 import { getUserTransactions } from "@/actions/transaction";
 import { Button } from "@/components/ui/button";

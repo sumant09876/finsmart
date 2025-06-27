@@ -22,6 +22,10 @@ export default async function AddTransactionPage({ searchParams }) {
       ? "Edit Transaction"
       : "Add Transaction";
 
+  if (!accounts) {
+    return { notFound: true }; // Next.js will show 404 page
+  }
+
   return (
     <div className="max-w-3xl mx-auto px-5">
       <div className="flex justify-center md:justify-normal mb-8">
@@ -33,6 +37,11 @@ export default async function AddTransactionPage({ searchParams }) {
         editMode={!!editId}
         initialData={initialData}
       />
+      {!accounts ? (
+        <div>No account found</div>
+      ) : (
+        <div>{accounts.balance}</div>
+      )}
     </div>
   );
 }
